@@ -48,4 +48,3 @@ Thanks for playing! Goodbye.
 ```
 
 ---
-*Add more sections for other tasks below as needed.*
